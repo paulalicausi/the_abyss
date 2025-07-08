@@ -2,7 +2,7 @@ export default function ButtonOut({lang}) {
   
   return (
       <a
-      href='https://nebulascafe.com'
+      href='https://nebulascafe.com/gracias/'
       target='_blank'
       style={{
         position: 'relative',
