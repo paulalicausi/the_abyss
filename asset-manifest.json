@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/the_abyss/static/css/main.eeb95317.css",
-    "main.js": "/the_abyss/static/js/main.3340c4f5.js",
+    "main.js": "/the_abyss/static/js/main.2360b5dc.js",
     "static/js/453.581feeeb.chunk.js": "/the_abyss/static/js/453.581feeeb.chunk.js",
     "index.html": "/the_abyss/index.html",
     "main.eeb95317.css.map": "/the_abyss/static/css/main.eeb95317.css.map",
-    "main.3340c4f5.js.map": "/the_abyss/static/js/main.3340c4f5.js.map",
+    "main.2360b5dc.js.map": "/the_abyss/static/js/main.2360b5dc.js.map",
     "453.581feeeb.chunk.js.map": "/the_abyss/static/js/453.581feeeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eeb95317.css",
-    "static/js/main.3340c4f5.js"
+    "static/js/main.2360b5dc.js"
   ]
 }
